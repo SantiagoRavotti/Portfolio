@@ -1,37 +1,17 @@
 # Santiago Ravotti Data Analyst Portfolio
 
-You can use the [editor on GitHub](https://github.com/SantiagoRavotti/Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Analysis of Copenhagen  Rental-rooms with WebScrapping, Python and Tableau
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A couple of weeks before I moved to Copenhagen, I wanted to know what I could expect to pay per month for a room in the metropolitan area, as well as the size of the rooms. This, after being added to multiple Whatsapp groups for Expats in Copenhagen, was a common question among those of us who decided to move to Denmark. 
 
-### Markdown
+So I decided to do Web Scrapping on the website *boligportal.dk* with Python libraries like BeautifulSoup, request, geopy and Pandas, and get a data frame with zip codes, areas, sizes and prices.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Once I finished cleaning, replacing, sorting and deleting data in Excel, I proceeded to visualise this data in Tableau. Here is the visual result of the project.
 
-```markdown
-Syntax highlighted code block
+If you are interested in the Python code and steps to get the data and place it inside a Pandas dataframe, check the GitHub repository at the following link, where you will find a Jupyther Notebook with all the steps:
 
-# Header 1
-## Header 2
-### Header 3
+### [GitHub Repository](https://github.com/SantiagoRavotti/Copenhagen-Apartments-Analysis)
 
-- Bulleted
-- List
+If you want to see the visualisations interactively in my Tableau Public, this is the link to my profile: 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SantiagoRavotti/Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### [Tableau Profile](https://public.tableau.com/app/profile/luis.santiago.ravotti)
