@@ -28,7 +28,7 @@ while add <= 1730:
 
 Once I finished cleaning, replacing, sorting and deleting data in Excel, I proceeded to visualise this data in Tableau. Here is some visual result of the project.
 
-![First Image](https://github.com/SantiagoRavotti/Copenhagen-Apartments-Analysis/blob/main/Analysis%20of%20Room%20Prices%20Copenhagen.JPG?raw=true)
+![First Image](Analysis%20of%20Room%20Prices%20Copenhagen.JPG)
 
 We can easily observe, among other aspects, how the average price of a room in Copenhagen is 5,829 kr per month and how prices decrease as we move away from the city centre. 
 
